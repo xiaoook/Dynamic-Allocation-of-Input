@@ -1,4 +1,6 @@
 # Dynamic-Allocation-of-Input
+🌍 **English** | [简体中文](/README_zh.md)
+
 This repository supplies a C header file for dynamic allocating the input char type data. The length of the char array depends on the length of the string you input. An example C code is also provided.
 
 ## How it works?
